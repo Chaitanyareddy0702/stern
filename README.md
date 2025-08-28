@@ -186,6 +186,9 @@ If you use zsh, just source the stern zsh completion code in `.zshrc`.
 source <(stern --completion=zsh)
 ```
 
+## Test the pipeline
+Remove this later
+
 ## Contributing to this repository
 
 Oracle welcomes contributions to this repository from anyone.  Please see
